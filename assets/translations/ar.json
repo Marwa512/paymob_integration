@@ -1,0 +1,14 @@
+{
+    "payment": "الدفع",
+    "billDetails":"تفاصيل الفاتورة",
+    "conslutationType":"نوع الاستشارة العام",
+    "subConslutationType":"نوع الاستشارة الفرعية",
+    "law":"قانون جنائي",
+    "harassment":"تحرش",
+    "cost":"500 جنية",
+    "walletCharge":"رصيد المحفظة",
+    "card":"بطاقة الدفع الالكتروني",
+    "e-wallet":"المحفظة الالكترونية",
+    "confirmPayment":"تاكيد الدفع"
+
+}

@@ -1,0 +1,81 @@
+{
+    "id":78,
+    "pending": "true",
+    "amount_cents":1000,
+    "success":"fasle",
+    "is_auth": "false",
+    "is_capture": "false",
+    "is_standalone_payment":"true",
+    "is_voided": "false",
+    "is_refunded": "false",
+    "is_3d_secure": "false",
+    "integration_id":1,
+    "profile_id":1,
+    "has_parent_transaction": "false",
+    "order":{
+      "id":103,
+      "created_at":"2016-12-26T06:49:16.651010Z",
+      "delivery_needed": "false",
+      "merchant":{
+        "id":1,
+        "created_at":"2016-11-17T15:02:53.646620Z",
+        "phones":[
+          "011111111111",
+          "012324151432"
+        ],
+        "company_emails":[
+          "brendon42@cummings-windler.biz",
+          "jim50@sipes-kunze.com"
+        ],
+        "company_name":"Wuckert, Zieme and Dach",
+        "state":"Oklahoma",
+        "country":"Oman",
+        "city":"Port Arvillachester",
+        "postal_code":"83372",
+        "street":"Walker Ramp"
+      },
+      "collector": "null",
+      "amount_cents":1000,
+      "shipping_data":{
+        "id":73,
+        "first_name":"Clifford",
+        "last_name":"Nicolas",
+        "street":"Ethan Land",
+        "building":"8028",
+        "floor":"42",
+        "apartment":"803",
+        "city":"Jaskolskiburgh",
+        "state":"Utah",
+        "country":"CR",
+        "email":"claudette09@exa.com",
+        "phone_number":"+86(8)9135210486",
+        "postal_code":"01898",
+        "extra_description":"",
+        "shipping_method":"UNK",
+        "order_id":94,
+        "order":94
+      },
+      "currency":"EGP",
+      "is_payment_locked":"true",
+      "merchant_order_id": "null",
+      "wallet_notification": "null",
+      "paid_amount_cents":0
+    },
+    "created_at":"2016-12-26T06:49:16.680871Z",
+  
+    "currency":"EGP",
+    "source_data":{
+      "sub_type": "WALLET",
+      "number": "01274155230",
+      "type": "wallet"
+    },
+    "error_occured": "false",
+    "owner": 2,
+    "parent_transaction": "null",  
+    "redirect_url": "this_is_the_wallet_redirect_url"  
+  
+  
+  
+  
+  
+  }
